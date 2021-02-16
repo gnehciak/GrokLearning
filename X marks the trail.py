@@ -6,3 +6,5 @@ for i in range(size):
     for j in range(size):
         row.append('.')
     table.append(row)
+
+#Testinnngggg
