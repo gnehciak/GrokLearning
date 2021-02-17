@@ -10,13 +10,13 @@ for i in range(size):
 
 line = ' '
 while line:
-    if(line == 'right'):
+    if line == 'right':
         pos[1] += 1
-    elif(line == 'down'):
+    elif line == 'down':
         pos[0] += 1
-    elif(line == 'left'):
+    elif line == 'left':
         pos[1] -= 1
-    elif(line == 'up'):
+    elif line == 'up':
         pos[0] -= 1
     table[pos[0]][pos[1]] = 'x'
 
