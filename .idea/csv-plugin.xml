@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Which karaoke songs are left.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Wordy numbers.py">
           <value>
             <Attribute>
