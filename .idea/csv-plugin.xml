@@ -59,6 +59,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Shout Out.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Superior Numbers.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Travelling Circus.py">
           <value>
             <Attribute>
