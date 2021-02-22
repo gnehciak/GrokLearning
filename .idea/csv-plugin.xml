@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\It's Showtime.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Letters in the letterbox.py">
           <value>
             <Attribute>
@@ -39,6 +46,20 @@
           </value>
         </entry>
         <entry key="\Middle Number.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Missing Multipliers.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Travelling Circus.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
