@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Cabbage Cup.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Den Svensk funkshun.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Driving Me Crazy.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -24,7 +38,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Fungal Friends.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Generate Usernames.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Gnome Renovation.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
@@ -67,6 +95,13 @@
           </value>
         </entry>
         <entry key="\Shout Out.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\State of the Art.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
