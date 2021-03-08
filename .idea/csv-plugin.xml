@@ -122,6 +122,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Travelling Meowchant.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Trending #Hashtags.py">
           <value>
             <Attribute>
